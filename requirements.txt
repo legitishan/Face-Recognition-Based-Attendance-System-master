@@ -1,0 +1,10 @@
+tkinter
+cv2
+os
+shutil
+csv
+numpy
+PIL
+pandas
+datetime
+time
